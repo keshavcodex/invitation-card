@@ -9,12 +9,10 @@ function Entry(props) {
                     <h1 className="u-text-palette-1-base u-text-1">Birthday&nbsp;Invitation For {props.name}
                     </h1>
                     <p className="u-text u-text-2">With god’s blessing and your love I am celebrating my 20th birthday on this
-                        <b> <u>16th April</u>&nbsp;</b>and I would like you to double my happiness with your
-                        presence.&nbsp;Awaiting you! Lots of love.
+                        <b> <u>10th April</u>&nbsp;</b>and I would like you to double my happiness with your
+                        presence.&nbsp;Awaiting you! Lots of love from <strong>Khushi, Alka & Keshav.</strong>
                     </p>
-                    <a href="#" className="u-black u-btn u-button-style u-btn-1">Venue: My Home<br></br>
-                    Address: BC 257, Kestopur, Kolkata. Near 7 no. foot bridge
-                    </a>
+                    <a href="#" className="u-black u-btn u-button-style u-btn-1">Venue: Notified soon</a>
                 </div>
             </section>
         </div>
